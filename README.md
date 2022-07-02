@@ -1,2 +1,1 @@
-# CSharp-OOP
-C# OOP @ SoftUni
+# <p align="center"> OOP module course with C# @ SoftUni<p>
