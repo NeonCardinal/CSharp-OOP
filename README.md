@@ -1,1 +1,1 @@
-# <p align="center"> OOP module course with C# @ SoftUni<p>
+# <p align="center"> OOP module with C# @ SoftUni<p>
